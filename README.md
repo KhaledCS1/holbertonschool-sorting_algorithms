@@ -8,7 +8,7 @@ This repository contains implementations of various sorting algorithms in the C 
 
 - [Introduction](#introduction)  
 - [Algorithms](#algorithms)
-- [Contributing](#contributing)  
+- [Collaboration](#collaboration)  
   
 
 ---
